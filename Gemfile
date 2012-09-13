@@ -23,6 +23,9 @@ end
 gem 'jquery-rails'
 
 gem 'thin'
+gem 'paperclip'
+gem 'haml-rails'
+gem 'sorcery'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
